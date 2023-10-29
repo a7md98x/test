@@ -32,7 +32,7 @@ p {
     padding: 0;
 }
 a[cc = "r"]{
-    font-size: xx-small;
+    font-size: small;
 }
 .redgbig{
     font-size: xx-large;
