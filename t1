@@ -12,8 +12,7 @@
         <div>
             Favorite Color:
             <input name="color" type="radio" value="blue"> Blue
-            <input name="color" type="radio" value="green"> Green
-            <input name="color" type="radio" value="yellow"> Yellow
+
         </div>
 	<input type="submit">
     </form>
