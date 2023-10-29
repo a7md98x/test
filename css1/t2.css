@@ -1,0 +1,72 @@
+
+#kk{
+    background-color: blueviolet;
+}
+body{
+
+    
+}
+.center{
+    text-align: center;
+}
+.redg{
+    color: red;
+}
+.bg_blue{
+    background-color: aqua;
+}
+a:visited{
+    font-size: xx-large;
+    color: yellowgreen;
+}
+p::first-letter{
+    color: blueviolet;
+}
+.cont{
+    width: 100%;
+    margin: 0;
+    padding: 20px
+}
+p {
+    margin: 0;
+    padding: 0;
+}
+a[cc = "r"]{
+    font-size: xx-small;
+}
+.redgbig{
+    font-size: xx-large;
+}
+[class^=re]{
+    text-align: center;
+}
+
+
+a[href="https://www.w3schools.com"]{
+    font-size: xx-large;
+}
+
+
+/* @media (min-width: 599px) {
+    a {
+        font-size: 200px;
+    }
+}
+@media (max-width: 600px){
+    body{
+        background-color: aqua;
+    }
+    
+} */
+#container{
+    display: flex;
+    flex-wrap: wrap;
+}
+#container div{
+    background-color: green;
+    font-size: 20px;
+    margin: 20px;
+    padding: 20px;
+    width: 200px;
+
+}
